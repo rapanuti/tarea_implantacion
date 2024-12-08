@@ -12,4 +12,4 @@
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [rapanuti](https://github.com/rapanuti)
-- [jhon] (https://github.com/KacosxD)
+- [jhon](https://github.com/KacosxD)
