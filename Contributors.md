@@ -6,9 +6,9 @@
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
+- [JhonCarl1] (https://github.com/JhonCarl1)
 - LuisanaBMG
 - MoeFlowers
-- [JhonCarl1](https://github.com/JhonCarl1)
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
