@@ -6,6 +6,7 @@
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
+- [Ing]Moises Flores (https://github.com/MoeFlowers)
 - LuisanaBMG
 - [SushiOnToast](https://github.com/SushiOnToast) First contribution!!!
 - [JustVelio] (https://github.com/justvelio)
