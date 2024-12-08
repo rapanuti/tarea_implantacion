@@ -8,7 +8,6 @@
 - [Yuji]
 - LuisanaBMG
 - MoeFlowers
--[SushiOnToast](https://github.com/SushiOnToast) First contribution!!!
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
