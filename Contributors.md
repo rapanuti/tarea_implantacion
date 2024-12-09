@@ -6,6 +6,7 @@
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
+- [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [JhonCarl1] (https://github.com/JhonCarl1)
 - LuisanaBMG
 - MoeFlowers
