@@ -13,5 +13,6 @@
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
+- [ Roger Romero ](https://github.com/royert)
 - [rapanuti](https://github.com/rapanuti)
 
