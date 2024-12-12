@@ -2,6 +2,7 @@
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
+- [duma12322](https://github.com/duma12322)
 - [UdinBebek]
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
