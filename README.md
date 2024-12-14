@@ -38,7 +38,7 @@ donde "url que acabas de copiar" (sin las comillas) es la url de este repositori
 Por ejemplo:
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
+git clone git@github.com:this-is-you/tarea_implantacion.git
 ```
 
 ¿Dónde this-is-you está tu nombre de usuario de GitHub? Aquí estás copiando el contenido del repositorio first-contributions de GitHub a tu computadora.
