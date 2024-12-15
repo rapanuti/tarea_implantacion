@@ -48,7 +48,7 @@ git clone git@github.com:this-is-you/tarea_implantacion.git
 Cambie al directorio del repositorio en su computadora (si aún no está allí):
 
 ```bash
-cd first-contributions
+cd tarea_implantacion
 ```
 Ahora crea una rama usando  una rama usando el  `git switch` commando:
 
