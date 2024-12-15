@@ -5,6 +5,7 @@
 - [duma12322](https://github.com/duma12322)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [UdinBebek]
+- [michiveruska](https://github.com/michiveruska)
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
