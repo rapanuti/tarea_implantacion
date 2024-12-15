@@ -10,8 +10,8 @@
 -[yassire](https://github.com/yyassire)
 - [Yuji]
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
-- [JhonCarl1] (https://github.com/JhonCarl1)
 - [cesaloz](https://github.com/cesaloz/)
+- [Jhoncarl] (https://github.com/Jhoncarl2)
 - LuisanaBMG
 - MoeFlowers
 - [cesaloz](https://github.com/cesaloz)
