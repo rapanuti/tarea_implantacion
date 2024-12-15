@@ -14,7 +14,7 @@
 - [Jhoncarl] (https://github.com/Jhoncarl2)
 - LuisanaBMG
 - MoeFlowers
-- [cesaloz](https://github.com/cesaloz)
+- cesaloz
 - Desideria1 (https://github.com/Desideria1)
 - [JustVelio] (https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
