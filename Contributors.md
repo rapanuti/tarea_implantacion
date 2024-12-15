@@ -10,7 +10,7 @@
 - [Yuji]
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [JhonCarl1] (https://github.com/JhonCarl1)
-- [cesaloz] (https://github.com/cesaloz/)
+- [cesaloz](https://github.com/cesaloz/)
 - LuisanaBMG
 - MoeFlowers
 - Desideria1 (https://github.com/Desideria1)
