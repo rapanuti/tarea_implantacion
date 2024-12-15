@@ -3,6 +3,7 @@
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
+cesaloz
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
