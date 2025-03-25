@@ -8,7 +8,7 @@ jobs:
     permissions:
       issues: write
       pull-requests: write
-    name: Actividad inicial
+
     steps:
     - uses: actions/first-interaction@v1
       with:
