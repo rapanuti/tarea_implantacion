@@ -9,6 +9,7 @@ jobs:
       issues: write
       pull-requests: write
     steps:
+      name: Actividad inicial
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
