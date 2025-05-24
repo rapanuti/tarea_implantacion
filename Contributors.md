@@ -10,6 +10,7 @@ cesaloz
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
+- -AdrianLoaiza(Azalon70)
 - RoymerMatheus
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
