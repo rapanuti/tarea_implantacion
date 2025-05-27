@@ -10,12 +10,17 @@ cesaloz
 - [Saka kolade] (https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
-- [Nei21ker] https://github.com/Nei21ker/ramafruit.git
+
+- [Nei21ker] (https://github.com/Nei21ker/ramafruit.git)
+
+- [AdrianLoaiza](Azalon70)
+- [BlacKSherU] (https://github.com/BlacKSherU)
+
 - RoymerMatheus
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
 - [Jhoncarl] (https://github.com/Jhoncarl2)
-- LuisanaBMG
+- [LuisanaBMG]  (https://github.com/LuisanaBMG)
 - MoeFlowers
 - cesaloz
 - Desideria1 (https://github.com/Desideria1)
