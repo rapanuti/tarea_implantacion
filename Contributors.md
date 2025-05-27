@@ -14,6 +14,7 @@ cesaloz
 - [AdrianLoaiza](Azalon70)
 - [BlacKSherU](https://github.com/BlacKSherU)
 - RoymerMatheus
+- [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
 - [Jhoncarl](https://github.com/Jhoncarl2)
