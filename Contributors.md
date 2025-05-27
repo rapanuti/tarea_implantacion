@@ -7,24 +7,21 @@ cesaloz
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
-- [Saka kolade] (https://github.com/fizzwic)
+- [Saka kolade](https://github.com/fizzwic)
 -[yassire](https://github.com/yyassire)
 - [Yuji]
-
-- [Nei21ker] (https://github.com/Nei21ker/ramafruit.git)
-
+- [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
-- [BlacKSherU] (https://github.com/BlacKSherU)
-
+- [BlacKSherU](https://github.com/BlacKSherU)
 - RoymerMatheus
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
-- [Jhoncarl] (https://github.com/Jhoncarl2)
-- [LuisanaBMG]  (https://github.com/LuisanaBMG)
+- [Jhoncarl](https://github.com/Jhoncarl2)
+- [LuisanaBMG](https://github.com/LuisanaBMG)
 - MoeFlowers
 - cesaloz
-- Desideria1 (https://github.com/Desideria1)
-- [JustVelio] (https://github.com/justvelio)
+- [Desideria1](https://github.com/Desideria1)
+- [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [JhonniferC] (https://github.com/JhonniferC)
 - [Andrew17best] (https://github.com/Andrew17best)
