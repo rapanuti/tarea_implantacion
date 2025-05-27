@@ -23,6 +23,11 @@
 - [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
 - cesaloz
+- Desideria1(https://github.com/Desideria1)
+- [JhonniferC2](https://github.com/JhonniferC)
+- [JustVelio](https://github.com/justvelio)
+- [John Sandoval 🚀](https://github.com/jsandoval1)
+- [Andrew17best](https://github.com/Andrew17best)
 - [Desideria1](https://github.com/Desideria1)
 - [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
