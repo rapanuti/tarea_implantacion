@@ -7,6 +7,7 @@
 - [duma12322](https://github.com/duma12322)
   cesaloz
 - [wjsalassalazar](https://github.com/wjsalassalazar)
+- [andislop](https://github.com/andislop)
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic) -[yassire](https://github.com/yyassire)
