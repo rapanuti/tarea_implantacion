@@ -1,14 +1,15 @@
-# Contributors 
+# Contributors
+
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
+
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
-cesaloz
+  cesaloz
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
-- [Saka kolade](https://github.com/fizzwic)
--[yassire](https://github.com/yyassire)
+- [Saka kolade](https://github.com/fizzwic) -[yassire](https://github.com/yyassire)
 - [Yuji]
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
@@ -18,6 +19,7 @@ cesaloz
 - [cesaloz](https://github.com/cesaloz/)
 - [Jhoncarl](https://github.com/Jhoncarl2)
 - [LuisanaBMG](https://github.com/LuisanaBMG)
+- [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
 - cesaloz
 - [Desideria1](https://github.com/Desideria1)
@@ -28,5 +30,3 @@ cesaloz
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
 - [rapanuti](https://github.com/rapanuti)
-
-
