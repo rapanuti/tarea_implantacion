@@ -11,6 +11,7 @@ cesaloz
 -[yassire](https://github.com/yyassire)
 - [Yuji]
 - AdrianLoaiza(Azalon70)
+- [BlacKSherU] (https://github.com/BlacKSherU)
 - RoymerMatheus
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
