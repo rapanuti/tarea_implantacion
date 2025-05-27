@@ -19,6 +19,7 @@ cesaloz
 - [Jhoncarl](https://github.com/Jhoncarl2)
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - MoeFlowers
+- [kevinwar](https://github.com/kevinwar)
 - cesaloz
 - [Desideria1](https://github.com/Desideria1)
 - [JustVelio](https://github.com/justvelio)
