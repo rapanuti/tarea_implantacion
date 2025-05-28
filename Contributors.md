@@ -15,6 +15,7 @@
 - [Yuji]
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
+- [AriJs-svg](https://github.com/AriJs-svg)
 - [BlacKSherU](https://github.com/BlacKSherU)
 - RoymerMatheus
 - [Aruajeg](https://github.com/Aruajeg)
