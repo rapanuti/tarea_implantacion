@@ -4,6 +4,7 @@
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
 cesaloz
+- [yelianny30](https://github.com/yelianny30)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
