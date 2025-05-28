@@ -1,30 +1,48 @@
-# Contributors 
+# Contributors
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
 cesaloz
 - [yelianny30](https://github.com/yelianny30)
+  cesaloz
+- [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
-- [UdinBebek]
+- [andislop](https://github.com/andislop)
+- [cesarcastdj](https://github.com/cesarcastdj) ✨
 - [michiveruska](https://github.com/michiveruska)
-- [Saka kolade] (https://github.com/fizzwic)
--[yassire](https://github.com/yyassire)
+- [Saka kolade](https://github.com/fizzwic) 
+- -[yassire](https://github.com/yyassire)
 - [Yuji]
+- [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
+- [AdrianLoaiza](Azalon70)
+- [AriJs-svg](https://github.com/AriJs-svg)
+- [BlacKSherU](https://github.com/BlacKSherU)
 - RoymerMatheus
+- [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
-- [Jhoncarl] (https://github.com/Jhoncarl2)
-- LuisanaBMG
+- [Jhoncarl](https://github.com/Jhoncarl2)
+- [LuisanaBMG](https://github.com/LuisanaBMG)
+- [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
+- [kevinwar](https://github.com/kevinwar)
 - cesaloz
-- Desideria1 (https://github.com/Desideria1)
-- [JustVelio] (https://github.com/justvelio)
+- Desideria1(https://github.com/Desideria1)
+- [JhonniferC2](https://github.com/JhonniferC)
+- [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
-- [JhonniferC] (https://github.com/JhonniferC)
-- [Andrew17best] (https://github.com/Andrew17best)
+- [Andrew17best](https://github.com/Andrew17best)
+- [jesusdrs03](https://github.com/Jesusdrs03)
+- [Desideria1](https://github.com/Desideria1)
+- [JustVelio](https://github.com/justvelio)
+- [John Sandoval 🚀](https://github.com/jsandoval1)
+- [JhonniferC](https://github.com/JhonniferC)
+- [Andrew17best](https://github.com/Andrew17best)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
 - [rapanuti](https://github.com/rapanuti)
-
-
+- [05Michael03](https://github.com/05Michael03)
+- [Shairacc](https://github.com/Shairacc)
+- [05Michael03](https://github.com/05Michael03)
+- [MariGabi1](https://github.com/MariGabi1)
