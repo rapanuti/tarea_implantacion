@@ -1,5 +1,7 @@
 # Contributors
+
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
+
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
@@ -7,9 +9,10 @@
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)
+- [Danielings](https://github.com/Danielings)
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
-- [Saka kolade](https://github.com/fizzwic) 
+- [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
 - [Yuji]
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
