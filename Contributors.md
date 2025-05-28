@@ -31,6 +31,7 @@
 - [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [Andrew17best](https://github.com/Andrew17best)
+- [jesusdrs03](https://github.com/Jesusdrs03)
 - [Desideria1](https://github.com/Desideria1)
 - [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
@@ -39,5 +40,4 @@
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
 - [rapanuti](https://github.com/rapanuti)
-- [05Michael03](https://github.com/05Michael03)
 - [Shairacc](https://github.com/Shairacc)
