@@ -9,7 +9,7 @@
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)
-- [cesarcastdj](https://github.com/cesarcastdj)
+- [cesarcastdj](https://github.com/cesarcastdj) ✨
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic) -[yassire](https://github.com/yyassire)
 - [Yuji]
