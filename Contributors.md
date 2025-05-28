@@ -10,7 +10,6 @@
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)
 - [cesarcastdj](https://github.com/cesarcastdj)
-- [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic) -[yassire](https://github.com/yyassire)
 - [Yuji]
