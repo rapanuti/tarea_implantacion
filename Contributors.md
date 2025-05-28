@@ -9,7 +9,7 @@
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)
-- [Danielings](https://github.com/Danielings)
+- [Danielings](https://github.com/Danielings) ✌
 - [UdinBebek]
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
