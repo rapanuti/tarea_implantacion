@@ -5,12 +5,15 @@
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
+cesaloz
+- [yelianny30](https://github.com/yelianny30)
   cesaloz
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)
 - [Danielings](https://github.com/Danielings) ✌
 - [UdinBebek]
+- [cesarcastdj](https://github.com/cesarcastdj) ✨
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
@@ -29,7 +32,7 @@
 - MoeFlowers
 - [kevinwar](https://github.com/kevinwar)
 - cesaloz
-- Desideria1(https://github.com/Desideria1)
+- [Desideria1](https://github.com/Desideria1)
 - [JhonniferC2](https://github.com/JhonniferC)
 - [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
