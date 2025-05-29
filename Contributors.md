@@ -30,6 +30,7 @@ cesaloz
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
+- [yelianny.30](https://github.com/yelianny30)
 - [kevinwar](https://github.com/kevinwar)
 - cesaloz
 - [Desideria1](https://github.com/Desideria1)
