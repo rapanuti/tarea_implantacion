@@ -12,6 +12,7 @@ cesaloz
 - [Danielings](https://github.com/Danielings) ✌
 - [UdinBebek]
 - [cesarcastdj](https://github.com/cesarcastdj) ✨
+- [ruthoropeza03](https://github.com/ruthoropeza03)
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
