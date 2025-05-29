@@ -46,7 +46,4 @@ cesaloz
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
 - [rapanuti](https://github.com/rapanuti)
-- [05Michael03](https://github.com/05Michael03)
 - [Shairacc](https://github.com/Shairacc)
-- [05Michael03](https://github.com/05Michael03)
-- [MariGabi1](https://github.com/MariGabi1)
