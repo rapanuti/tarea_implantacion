@@ -18,6 +18,7 @@ cesaloz
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
 - [Yuji]
+- [chega2003](https://github.com/chega2003)
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
 - [AriJs-svg](https://github.com/AriJs-svg)
