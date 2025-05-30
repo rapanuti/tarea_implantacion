@@ -5,6 +5,7 @@
 - [duma12322](https://github.com/duma12322)
 cesaloz
 - [yelianny30](https://github.com/yelianny30)
+- [Anderson3012](https://github.com/Anderson3012)
   cesaloz
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
