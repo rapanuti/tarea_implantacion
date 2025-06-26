@@ -7,6 +7,7 @@ cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Anderson3012](https://github.com/Anderson3012)
   cesaloz
+- [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
