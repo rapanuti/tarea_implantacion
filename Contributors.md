@@ -33,6 +33,7 @@ cesaloz
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
+- [jorgemdeoca](https://github.com/jorgemdeoca)
 - [yelianny.30](https://github.com/yelianny30)
 - [kevinwar](https://github.com/kevinwar)
 - cesaloz
