@@ -7,11 +7,12 @@ cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Anderson3012](https://github.com/Anderson3012)
   cesaloz
+=[CesarGraterol](https://github.com/cdga2004)
 - [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
-- [andislop](https://github.com/andislop)
+- [andislop](https://github.com/andislop)xz
 - [Danielings](https://github.com/Danielings) ✌
 - [UdinBebek]
 - [cesarcastdj](https://github.com/cesarcastdj) ✨
