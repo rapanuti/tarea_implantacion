@@ -8,11 +8,12 @@ cesaloz
 - [Anderson3012](https://github.com/Anderson3012)
   cesaloz
   eucarys
+=[CesarGraterol](https://github.com/cdga2004)
 - [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
 - [angelo](https://github.com/angelolelli)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
-- [andislop](https://github.com/andislop)
+- [andislop](https://github.com/andislop)xz
 - [Danielings](https://github.com/Danielings) ✌
 - [UdinBebek]
 - [cesarcastdj](https://github.com/cesarcastdj) ✨
@@ -24,9 +25,11 @@ cesaloz
 - [chega2003](https://github.com/chega2003)
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
+- [Francisco Martinez](https://github.com/Jesus241103)
 - [AriJs-svg](https://github.com/AriJs-svg)
 - [BlacKSherU](https://github.com/BlacKSherU)
 - RoymerMatheus
+- [JesusTorrealba](https://github.com/Jesust987) 
 - [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
@@ -34,6 +37,7 @@ cesaloz
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
+- [jorgemdeoca](https://github.com/jorgemdeoca)
 - [yelianny.30](https://github.com/yelianny30)
 - [kevinwar](https://github.com/kevinwar)
 - cesaloz
@@ -54,4 +58,5 @@ cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Shairacc](https://github.com/Shairacc)
 - [yelianny30](https://github.com/yelianny30)
+- [gomeztorresgomez](https://github.com/gomeztorresgomez)
 main
