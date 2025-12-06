@@ -7,6 +7,7 @@ cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Anderson3012](https://github.com/Anderson3012)
   cesaloz
+  eucarys
 =[CesarGraterol](https://github.com/cdga2004)
 - [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
