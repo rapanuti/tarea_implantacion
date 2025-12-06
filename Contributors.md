@@ -28,6 +28,7 @@ cesaloz
 - [AriJs-svg](https://github.com/AriJs-svg)
 - [BlacKSherU](https://github.com/BlacKSherU)
 - RoymerMatheus
+- [JesusTorrealba](https://github.com/Jesust987) 
 - [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
 - [cesaloz](https://github.com/cesaloz/)
