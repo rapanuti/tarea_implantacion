@@ -38,6 +38,7 @@ cesaloz
 - [alejoprograming26](https://github.com/alejoprograming26)
 - MoeFlowers
 - [jorgemdeoca](https://github.com/jorgemdeoca)
+- [SaimonCodex](https://github.com/SaimonCodex)
 - [yelianny.30](https://github.com/yelianny30)
 - [kevinwar](https://github.com/kevinwar)
 - cesaloz
