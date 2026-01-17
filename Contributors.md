@@ -36,6 +36,7 @@ cesaloz
 - [Jhoncarl](https://github.com/Jhoncarl2)
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
+- [genesis-sesi24](https://github.com/genesis-sesi24)
 - MoeFlowers
 - [jorgemdeoca](https://github.com/jorgemdeoca)
 - [yelianny.30](https://github.com/yelianny30)
