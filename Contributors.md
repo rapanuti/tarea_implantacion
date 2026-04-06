@@ -39,6 +39,7 @@ cesaloz
 - [genesis-sesi24](https://github.com/genesis-sesi24)
 - MoeFlowers
 - [jorgemdeoca](https://github.com/jorgemdeoca)
+- [SaimonCodex](https://github.com/SaimonCodex)
 - [yelianny.30](https://github.com/yelianny30)
 - [kevinwar](https://github.com/kevinwar)
 - cesaloz
