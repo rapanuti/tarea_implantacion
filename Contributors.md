@@ -9,6 +9,7 @@ cesaloz
   cesaloz
   eucarys
 =[CesarGraterol](https://github.com/cdga2004)
+- [AronAcosta](https://github.com/dante-dacosta)
 - [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
 - [angelo](https://github.com/angelolelli)
