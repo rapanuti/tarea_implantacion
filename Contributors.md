@@ -22,6 +22,7 @@ cesaloz
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
 - [Yuji]
+- [Jose Alejos](https://github.com/alejandrofc2709) 
 - [chega2003](https://github.com/chega2003)
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
