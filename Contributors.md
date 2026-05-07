@@ -56,10 +56,10 @@ cesaloz
 - [Andrew17best](https://github.com/Andrew17best)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
+- [JoseRodriguez](https://github.com/jhayC0)
 - [rapanuti](https://github.com/rapanuti)
 - [yelianny30](https://github.com/yelianny30)
 - [Shairacc](https://github.com/Shairacc)
 - [yelianny30](https://github.com/yelianny30)
-- [JoseRodriguez](https://github.com/jhayC0)
 - [gomeztorresgomez](https://github.com/gomeztorresgomez)
 main
