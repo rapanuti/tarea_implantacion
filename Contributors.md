@@ -60,5 +60,6 @@ cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Shairacc](https://github.com/Shairacc)
 - [yelianny30](https://github.com/yelianny30)
+- [JoseRodriguez](https://github.com/jhayC0)
 - [gomeztorresgomez](https://github.com/gomeztorresgomez)
 main
