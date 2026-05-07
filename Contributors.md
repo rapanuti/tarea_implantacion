@@ -6,9 +6,9 @@
 * [duma12322](https://github.com/duma12322)
 * [yelianny30](https://github.com/yelianny30)
 * [Anderson3012](https://github.com/Anderson3012)
-- [cesaloz]
-- [eucarys]
-=[CesarGraterol](https://github.com/cdga2004)
+- [cesaloz]()
+- [eucarys]()
+- [CesarGraterol](https://github.com/cdga2004)
 - [Luis](https://github.com/LuisAngelLinarez)
 - [janet](https://github.com/Ja-n3t-777)
 - [Yuliana250403(https://github.com/Yuliana250403)]
@@ -16,20 +16,20 @@
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)xz
 - [Danielings](https://github.com/Danielings) ✌
-- [UdinBebek]
+- [UdinBebek]()
 - [cesarcastdj](https://github.com/cesarcastdj) ✨
 - [ruthoropeza03](https://github.com/ruthoropeza03)
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
-- [Yuji]
+- [Yuji]()
 - [chega2003](https://github.com/chega2003)
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
 - [Francisco Martinez](https://github.com/Jesus241103)
 - [AriJs-svg](https://github.com/AriJs-svg)
 - [BlacKSherU](https://github.com/BlacKSherU)
-- RoymerMatheus
+- RoymerMatheus()
 - [JesusTorrealba](https://github.com/Jesust987) 
 - [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
@@ -38,12 +38,12 @@
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - [genesis-sesi24](https://github.com/genesis-sesi24)
-- MoeFlowers
+- MoeFlowers()
 - [jorgemdeoca](https://github.com/jorgemdeoca)
 - [SaimonCodex](https://github.com/SaimonCodex)
 - [yelianny.30](https://github.com/yelianny30)
 - [kevinwar](https://github.com/kevinwar)
-- cesaloz
+- cesaloz()
 - [Desideria1](https://github.com/Desideria1)
 - [JhonniferC2](https://github.com/JhonniferC)
 - [JustVelio](https://github.com/justvelio)
