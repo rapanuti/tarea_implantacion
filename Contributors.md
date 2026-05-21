@@ -35,6 +35,7 @@ cesaloz
 - [JesusTorrealba](https://github.com/Jesust987) 
 - [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
+- MichelleDelgado(https://github.com/Shell1809)
 - [cesaloz](https://github.com/cesaloz/)
 - [Jhoncarl](https://github.com/Jhoncarl2)
 - [LuisanaBMG](https://github.com/LuisanaBMG)
