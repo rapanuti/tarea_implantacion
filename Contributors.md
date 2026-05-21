@@ -42,6 +42,8 @@ cesaloz
 - [genesis-sesi24](https://github.com/genesis-sesi24)
 - [Luis Gonzalez](https://github.com/lfgonzalezh03)
 - MoeFlowers()
+- [Luis Gonzalez](https://github.com/lfgonzalezh03)
+- (https://github.com/Shell1809)
 - [AriadnaSilva](https://github.com/AriAriAri7)
 - [jorgemdeoca](https://github.com/jorgemdeoca)
 - [SaimonCodex](https://github.com/SaimonCodex)
