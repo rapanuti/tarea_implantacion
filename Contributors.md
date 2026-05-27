@@ -1,4 +1,5 @@
 # Contributors
+-[Heanniel] (https://github.com/Heanniel)
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
