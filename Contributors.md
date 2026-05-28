@@ -1,8 +1,10 @@
 # Contributors
+-[Heanniel] (https://github.com/Heanniel)
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
+- [lorraine2206](https://github.com/lorraine2206)
 cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Anderson3012](https://github.com/Anderson3012)
@@ -23,8 +25,10 @@ cesaloz
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
+- [Jose Alejos](https://github.com/alejandrofc2709) 
 - [Yuji]()
 - [chega2003](https://github.com/chega2003)
+- Valentina
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
 - [Francisco Martinez](https://github.com/Jesus241103)
@@ -34,13 +38,18 @@ cesaloz
 - [JesusTorrealba](https://github.com/Jesust987) 
 - [Aruajeg](https://github.com/Aruajeg)
 - [JorgeLuis](https://github.com/JorgeDuranAlcala)
+- MichelleDelgado(https://github.com/Shell1809)
 - [cesaloz](https://github.com/cesaloz/)
 - [Jhoncarl](https://github.com/Jhoncarl2)
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - [genesis-sesi24](https://github.com/genesis-sesi24)
 - [KatheMC](https://github.com/KatheMC)
+- [Luis Gonzalez](https://github.com/lfgonzalezh03)
 - MoeFlowers()
+- [Luis Gonzalez](https://github.com/lfgonzalezh03)
+- (https://github.com/Shell1809)
+- [AriadnaSilva](https://github.com/AriAriAri7)
 - [jorgemdeoca](https://github.com/jorgemdeoca)
 - [SaimonCodex](https://github.com/SaimonCodex)
 - [yelianny.30](https://github.com/yelianny30)
@@ -52,7 +61,9 @@ cesaloz
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [Andrew17best](https://github.com/Andrew17best)
 - [jesusdrs03](https://github.com/Jesusdrs03)
+- [Engelberth Gomez](https://github.com/Engelberth2710)
 - [Desideria1](https://github.com/Desideria1)
+- [José Ramírez](https://github.com/Rekt3453)
 - [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [JhonniferC](https://github.com/JhonniferC)
@@ -66,5 +77,6 @@ cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [gomeztorresgomez](https://github.com/gomeztorresgomez)
 - [Edgar Colmenarez](https://github.com/Edgarrr1)
+- [Karen](https://github.com/karenuniversidad2020-oss)
 main
 
