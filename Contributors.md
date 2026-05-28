@@ -25,6 +25,7 @@ cesaloz
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
+- [Jose Alejos](https://github.com/alejandrofc2709) 
 - [Yuji]()
 - [chega2003](https://github.com/chega2003)
 - Valentina
