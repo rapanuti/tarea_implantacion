@@ -1,4 +1,5 @@
 # Contributors
+-[Heanniel] (https://github.com/Heanniel)
 -- [6D-pixel](https://github.com/6D-pixel) 💪😠
 - [Thomas Bui](https://github.com/tbui468)
 - [Sluchainost](https://github.com/Sluchainost)
@@ -24,6 +25,7 @@ cesaloz
 - [michiveruska](https://github.com/michiveruska)
 - [Saka kolade](https://github.com/fizzwic)
 - -[yassire](https://github.com/yyassire)
+- [Jose Alejos](https://github.com/alejandrofc2709) 
 - [Yuji]()
 - [chega2003](https://github.com/chega2003)
 - Valentina
@@ -42,6 +44,7 @@ cesaloz
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - [genesis-sesi24](https://github.com/genesis-sesi24)
+- [KatheMC](https://github.com/KatheMC)
 - [Luis Gonzalez](https://github.com/lfgonzalezh03)
 - MoeFlowers()
 - [Luis Gonzalez](https://github.com/lfgonzalezh03)
@@ -60,11 +63,12 @@ cesaloz
 - [jesusdrs03](https://github.com/Jesusdrs03)
 - [Engelberth Gomez](https://github.com/Engelberth2710)
 - [Desideria1](https://github.com/Desideria1)
-- [José Ramírez] (https://github.com/Rekt3453)
+- [José Ramírez](https://github.com/Rekt3453)
 - [JustVelio](https://github.com/justvelio)
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [JhonniferC](https://github.com/JhonniferC)
 - [Andrew17best](https://github.com/Andrew17best)
+  [Jahdiel Asota](https://github.com/jahdieldacostar-bot)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
 - [JoseRodriguez](https://github.com/jhayC0)
@@ -75,5 +79,7 @@ cesaloz
 - [gomeztorresgomez](https://github.com/gomeztorresgomez)
 - [Edgar Colmenarez](https://github.com/Edgarrr1)
 - [kevin crespo](https://github.com/kevincrespo87)
+- [Karen](https://github.com/karenuniversidad2020-oss)
+
 main
 
