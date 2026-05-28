@@ -68,6 +68,7 @@ cesaloz
 - [John Sandoval 🚀](https://github.com/jsandoval1)
 - [JhonniferC](https://github.com/JhonniferC)
 - [Andrew17best](https://github.com/Andrew17best)
+  [Jahdiel Asota](https://github.com/jahdieldacostar-bot)
 - [ Amulya Jain ](https://github.com/AmulyaJain2004)
 - [ Roger Romero ](https://github.com/royert)
 - [JoseRodriguez](https://github.com/jhayC0)
