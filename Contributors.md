@@ -32,6 +32,7 @@ cesaloz
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
 - [Javier-VA671](https://github.com/Javier-VA671)
+- [Sebastian-alvarez](https://github.com/sebasalvarez1478)
 - [Francisco Martinez](https://github.com/Jesus241103)
 - [AriJs-svg](https://github.com/AriJs-svg)
 - [BlacKSherU](https://github.com/BlacKSherU)
