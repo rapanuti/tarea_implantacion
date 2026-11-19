@@ -10,6 +10,7 @@ cesaloz
 - [Anderson3012](https://github.com/Anderson3012)
   cesaloz
   eucarys
+  [AstridRangel](https://github.com/astridrangel0213-cyber)
 =[CesarGraterol](https://github.com/cdga2004)
 - [AronAcosta](https://github.com/dante-dacosta)
 - [Luis](https://github.com/LuisAngelLinarez)
