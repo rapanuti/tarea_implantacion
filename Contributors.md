@@ -82,6 +82,7 @@ cesaloz
 - [Edgar Colmenarez](https://github.com/Edgarrr1)
 - [kevin crespo](https://github.com/kevincrespo87)
 - [Karen](https://github.com/karenuniversidad2020-oss)
+- [Jose Angel Freitez](https://github.com/joseangelfreitez187-cpu)
 
 main
 
