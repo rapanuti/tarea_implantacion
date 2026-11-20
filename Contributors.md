@@ -29,6 +29,7 @@ cesaloz
 - [Yuji]()
 - [chega2003](https://github.com/chega2003)
 - Valentina
+- [JuanEscalona]
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
 - [Javier-VA671](https://github.com/Javier-VA671)
