@@ -47,6 +47,7 @@ cesaloz
 - [LuisanaBMG](https://github.com/LuisanaBMG)
 - [alejoprograming26](https://github.com/alejoprograming26)
 - [genesis-sesi24](https://github.com/genesis-sesi24)
+- [kora-kd](https://github.com/Kora-kd)
 - [KatheMC](https://github.com/KatheMC)
 - [Luis Gonzalez](https://github.com/lfgonzalezh03)
 - MoeFlowers()
