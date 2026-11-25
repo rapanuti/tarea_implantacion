@@ -5,12 +5,10 @@
 - [Sluchainost](https://github.com/Sluchainost)
 - [duma12322](https://github.com/duma12322)
 - [lorraine2206](https://github.com/lorraine2206)
-cesaloz
 - [yelianny30](https://github.com/yelianny30)
 - [Anderson3012](https://github.com/Anderson3012)
-  cesaloz
-  eucarys
-  [AstridRangel](https://github.com/astridrangel0213-cyber).
+-  [AstridRangel](https://github.com/astridrangel0213-cyber).
+- [Cesar Rojas](https://github.com/Cesardavid-24).
 =[CesarGraterol](https://github.com/cdga2004)
 - [AronAcosta](https://github.com/dante-dacosta)
 - [Luis](https://github.com/LuisAngelLinarez)
@@ -33,6 +31,7 @@ cesaloz
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
 - [AdrianLoaiza](Azalon70)
 - [Javier-VA671](https://github.com/Javier-VA671)
+- [Sebastian-alvarez](https://github.com/sebasalvarez1478)
 - [Francisco Martinez](https://github.com/Jesus241103)
 - [AriJs-svg](https://github.com/AriJs-svg)
 - [BlacKSherU](https://github.com/BlacKSherU)
@@ -82,6 +81,8 @@ cesaloz
 - [Edgar Colmenarez](https://github.com/Edgarrr1)
 - [kevin crespo](https://github.com/kevincrespo87)
 - [Karen](https://github.com/karenuniversidad2020-oss)
+- [Carlos David Rojas Carmona](https://github.com/lalo2817)
+- [Jose Angel Freitez](https://github.com/joseangelfreitez187-cpu)
 
 main
 
