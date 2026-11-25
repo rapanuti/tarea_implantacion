@@ -18,6 +18,7 @@ cesaloz
 - [janet](https://github.com/Ja-n3t-777)
 - [Yuliana250403](https://github.com/Yuliana250403)
 - [angelo](https://github.com/angelolelli)
+- [Diego](https://github.com/DiegoJimenez12)
 - [wjsalassalazar](https://github.com/wjsalassalazar)
 - [andislop](https://github.com/andislop)xz
 - [Danielings](https://github.com/Danielings) ✌
