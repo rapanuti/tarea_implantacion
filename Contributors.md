@@ -30,6 +30,7 @@ cesaloz
 - -[yassire](https://github.com/yyassire)
 - [Jose Alejos](https://github.com/alejandrofc2709) 
 - [Yuji]()
+- [Juan Escalona](https://github.com/juanjose2306)
 - [chega2003](https://github.com/chega2003)
 - Valentina
 - [Nei21ker](https://github.com/Nei21ker/ramafruit.git)
