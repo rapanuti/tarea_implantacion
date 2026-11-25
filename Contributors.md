@@ -85,6 +85,7 @@ cesaloz
 - [Karen](https://github.com/karenuniversidad2020-oss)
 - [Carlos David Rojas Carmona](https://github.com/lalo2817)
 - [Jose Angel Freitez](https://github.com/joseangelfreitez187-cpu)
+- [Angelo Penso](https://github.com/angelopensodev-boop)
 
 main
 
